@@ -16,8 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="_4_I\Before\" />
-    <Folder Include="_4_I\After\" />
     <Folder Include="_5_D\Before\" />
     <Folder Include="_5_D\After\" />
   </ItemGroup>
