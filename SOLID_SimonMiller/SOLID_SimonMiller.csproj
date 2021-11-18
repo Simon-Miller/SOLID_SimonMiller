@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="_1_S\Before\" />
-    <Folder Include="_1_S\After\" />
     <Folder Include="_2_O\Before\" />
     <Folder Include="_2_O\After\" />
     <Folder Include="_3_L\Before\" />
