@@ -8,8 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="_2_O\Before\" />
-    <Folder Include="_2_O\After\" />
+    <None Remove="_2_O\After\_ReadMe.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="_2_O\After\_ReadMe.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="_3_L\Before\" />
     <Folder Include="_3_L\After\" />
     <Folder Include="_4_I\Before\" />
